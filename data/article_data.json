@@ -1,0 +1,410 @@
+[
+  {
+    "NAME": "I_B1D",
+    "DESCRIPT_1": "Base unit with one door and shelves"
+  },
+  {
+    "NAME": "I_B1DCL",
+    "DESCRIPT_1": "Base unit for left corner with 1 door and shelves"
+  },
+  {
+    "NAME": "I_B1DCR",
+    "DESCRIPT_1": "Base unit for right corner with 1 door and shelves"
+  },
+  {
+    "NAME": "I_B1DCSL",
+    "DESCRIPT_1": "Base unit for left corner with one door and shelves for sink"
+  },
+  {
+    "NAME": "I_B1DCSR",
+    "DESCRIPT_1": "Base unit for right corner with one door and shelves for sink"
+  },
+  {
+    "NAME": "I_B1DR1IDR",
+    "DESCRIPT_1": "Base unit 1 drawer, one inner drawer"
+  },
+  {
+    "NAME": "I_B1DR1IDRW",
+    "DESCRIPT_1": "Base unit 1 drawer, 1 inner drawer, waste bin"
+  },
+  {
+    "NAME": "I_B1DROVCO",
+    "DESCRIPT_1": "Base unit for oven and ooker with one drawer"
+  },
+  {
+    "NAME": "I_B1DWS",
+    "DESCRIPT_1": "Base unit for sink with one door and waste bin"
+  },
+  {
+    "NAME": "I_B1POB",
+    "DESCRIPT_1": "Base unit with pull out basket "
+  },
+  {
+    "NAME": "I_B1WS",
+    "DESCRIPT_1": "Base unit with pull out waste system"
+  },
+  {
+    "NAME": "I_B2D",
+    "DESCRIPT_1": "Base unit, 2 doors, adjustable shelves"
+  },
+  {
+    "NAME": "I_B2DR",
+    "DESCRIPT_1": "Base unit 2 drawers"
+  },
+  {
+    "NAME": "I_B2DR1IDR",
+    "DESCRIPT_1": "Base unit 2 drawers, 1 inner drawer"
+  },
+  {
+    "NAME": "I_B2DWS",
+    "DESCRIPT_1": ""
+  },
+  {
+    "NAME": "I_B3DR",
+    "DESCRIPT_1": "Base unit three drawers - one small, two large"
+  },
+  {
+    "NAME": "I_BDW",
+    "DESCRIPT_1": "Base unit door for dishwasher"
+  },
+  {
+    "NAME": "I_BPOWS",
+    "DESCRIPT_1": "Base unit with pull out waste system"
+  },
+  {
+    "NAME": "i_parts_iX",
+    "DESCRIPT_1": ""
+  },
+  {
+    "NAME": "M_B1D",
+    "DESCRIPT_1": "Base unit with one door and shelves"
+  },
+  {
+    "NAME": "M_B1D1DR",
+    "DESCRIPT_1": "Base unit 1 door, 1 drawer, adjustable shelves"
+  },
+  {
+    "NAME": "M_B1DCB180L",
+    "DESCRIPT_1": "Base unit for left corner with one door and pull out basket 1800 system"
+  },
+  {
+    "NAME": "M_B1DCB180R",
+    "DESCRIPT_1": "Base unit for right corner with one door and pull out  basket 180 system"
+  },
+  {
+    "NAME": "M_B1DCL",
+    "DESCRIPT_1": "Base unit for left corner with 1 door and shelves"
+  },
+  {
+    "NAME": "M_B1DCLML",
+    "DESCRIPT_1": "Base unit for left corner with one door and pull out LeMans system"
+  },
+  {
+    "NAME": "M_B1DCLMR",
+    "DESCRIPT_1": "Base unit for right corner with one door and pull out LeMans system"
+  },
+  {
+    "NAME": "M_B1DCR",
+    "DESCRIPT_1": "Base unit for right corner with 1 door and shelves"
+  },
+  {
+    "NAME": "M_B1DCSL",
+    "DESCRIPT_1": "Base unit for left corner with one door and shelves for sink"
+  },
+  {
+    "NAME": "M_B1DCSR",
+    "DESCRIPT_1": "Base unit for right corner with one door and shelves for sink"
+  },
+  {
+    "NAME": "M_B1DR1IDR",
+    "DESCRIPT_1": "Base unit 1 drawer, one inner drawer"
+  },
+  {
+    "NAME": "M_B1DR1IDRW",
+    "DESCRIPT_1": "Base unit 1 drawer, 1 inner drawer, waste bin"
+  },
+  {
+    "NAME": "M_B1DRCSL",
+    "DESCRIPT_1": "Base unit for left corner with one drawer"
+  },
+  {
+    "NAME": "M_B1DRCSR",
+    "DESCRIPT_1": "Base unit for right corner with one drawer"
+  },
+  {
+    "NAME": "M_B1DROVCO",
+    "DESCRIPT_1": "Base unit for oven and ooker with one drawer"
+  },
+  {
+    "NAME": "M_B1DRWS",
+    "DESCRIPT_1": "Base unit for sink with one drawer and waste bins"
+  },
+  {
+    "NAME": "M_B1DWS",
+    "DESCRIPT_1": "Base unit for sink with one door and waste bin"
+  },
+  {
+    "NAME": "M_B1OS",
+    "DESCRIPT_1": "Base unit with open shelves"
+  },
+  {
+    "NAME": "M_B1POB",
+    "DESCRIPT_1": "Base unit with pull out basket "
+  },
+  {
+    "NAME": "M_B1WS",
+    "DESCRIPT_1": "Base unit with pull out waste system"
+  },
+  {
+    "NAME": "M_B2D",
+    "DESCRIPT_1": "Base unit, 2 doors, adjustable shelves"
+  },
+  {
+    "NAME": "M_B2D1DR",
+    "DESCRIPT_1": "Base unit 2 doors, 1 drawer, adjustable shelves"
+  },
+  {
+    "NAME": "M_B2DR",
+    "DESCRIPT_1": "Base unit 2 drawers"
+  },
+  {
+    "NAME": "M_B2DR1IDR",
+    "DESCRIPT_1": "Base unit 2 drawers, 1 inner drawer"
+  },
+  {
+    "NAME": "M_B2DR1IDRXL",
+    "DESCRIPT_1": "Base unit with two drawers and one inner drawer"
+  },
+  {
+    "NAME": "M_B2DRXL",
+    "DESCRIPT_1": "Base unit with two drawers - one small, one extra large"
+  },
+  {
+    "NAME": "M_B2DWS",
+    "DESCRIPT_1": ""
+  },
+  {
+    "NAME": "M_B3DR",
+    "DESCRIPT_1": "Base unit three drawers - one small, two large"
+  },
+  {
+    "NAME": "M_B4DR",
+    "DESCRIPT_1": "Base unit 4 drawer, 3 small, 1 large"
+  },
+  {
+    "NAME": "M_BDW",
+    "DESCRIPT_1": "Base unit door for dishwasher"
+  },
+  {
+    "NAME": "M_BF",
+    "DESCRIPT_1": "Base unit filler"
+  },
+  {
+    "NAME": "M_BFC",
+    "DESCRIPT_1": "Base unit corner filling"
+  },
+  {
+    "NAME": "M_BOSTO",
+    "DESCRIPT_1": "Base unit with open towel holder"
+  },
+  {
+    "NAME": "M_BPOWS",
+    "DESCRIPT_1": "Base unit with pull out waste system"
+  },
+  {
+    "NAME": "M_BSP",
+    "DESCRIPT_1": "Base unit panel"
+  },
+  {
+    "NAME": "M_HP",
+    "DESCRIPT_1": "Horizontal panel"
+  },
+  {
+    "NAME": "M_VP",
+    "DESCRIPT_1": "Vertical panel"
+  },
+  {
+    "NAME": "NET_P",
+    "DESCRIPT_1": "iX NET Panel"
+  },
+  {
+    "NAME": "T1D",
+    "DESCRIPT_1": "Tall unit with one dividible door and adjustible shelves"
+  },
+  {
+    "NAME": "T1D_T",
+    "DESCRIPT_1": "Tall unit with one dividible door and adjustible shelves"
+  },
+  {
+    "NAME": "T1D1DROVMW",
+    "DESCRIPT_1": "Tall unit drawers and door for oven & microwave"
+  },
+  {
+    "NAME": "T1D2DR",
+    "DESCRIPT_1": "Tall unit with one door and adjustible shelves and two drawers"
+  },
+  {
+    "NAME": "T1D3DR",
+    "DESCRIPT_1": "Tall unit with one door and adjustible shelves and three drawers"
+  },
+  {
+    "NAME": "T1D4IDR",
+    "DESCRIPT_1": "Tall unit with one dividable door with four inner drawers"
+  },
+  {
+    "NAME": "T1DIDR",
+    "DESCRIPT_1": "Tall unit with one dividable door and inner drawers"
+  },
+  {
+    "NAME": "T1DPOB",
+    "DESCRIPT_1": "Tall unit with one dividable door with pull out basket"
+  },
+  {
+    "NAME": "T1DVAR",
+    "DESCRIPT_1": "Tall unit with one door and variable BU zone"
+  },
+  {
+    "NAME": "T2D",
+    "DESCRIPT_1": "Tall unit with one dividible door and adjustible shelves"
+  },
+  {
+    "NAME": "T2D2IDR",
+    "DESCRIPT_1": "Tall unit with two doors with shelves in top and inner drawers in bottom"
+  },
+  {
+    "NAME": "T2DOV",
+    "DESCRIPT_1": "Tall unit with two doors  for oven"
+  },
+  {
+    "NAME": "T3DFRIG",
+    "DESCRIPT_1": "Tall unit with three doors for refrigerator"
+  },
+  {
+    "NAME": "TDFRIG",
+    "DESCRIPT_1": "Tall unit with one dividable door for refrigerator"
+  },
+  {
+    "NAME": "TF",
+    "DESCRIPT_1": "Tall unit filler"
+  },
+  {
+    "NAME": "TOS",
+    "DESCRIPT_1": "Tall unit with open shelves"
+  },
+  {
+    "NAME": "TSP",
+    "DESCRIPT_1": "Tall unit panel"
+  },
+  {
+    "NAME": "W1D",
+    "DESCRIPT_1": "Wall unit with one door and shelves"
+  },
+  {
+    "NAME": "W1DCL",
+    "DESCRIPT_1": "Wall unit for left corner with one door and shelves"
+  },
+  {
+    "NAME": "W1DCR",
+    "DESCRIPT_1": "Wall unit for right corner with one door and shelves"
+  },
+  {
+    "NAME": "W1DDRY",
+    "DESCRIPT_1": "Wall unit with one door with dish drying rack"
+  },
+  {
+    "NAME": "W1DHO",
+    "DESCRIPT_1": "Wall unit with one door for cooker hood"
+  },
+  {
+    "NAME": "W1DHO_v2",
+    "DESCRIPT_1": "Wall unit with one door for cooker hood"
+  },
+  {
+    "NAME": "W1DLS_HK",
+    "DESCRIPT_1": "Wall unit with one door Aventos HK system for hood"
+  },
+  {
+    "NAME": "W1DLS_HK_XS",
+    "DESCRIPT_1": "Wall unit with one door Aventos HK XS system for hood"
+  },
+  {
+    "NAME": "W1DLS_HKs",
+    "DESCRIPT_1": "Wall unit with one door Aventos HKs system for hood"
+  },
+  {
+    "NAME": "W1DLS_HL",
+    "DESCRIPT_1": "Wall unit with one door Aventos HL system for hood"
+  },
+  {
+    "NAME": "W1DLS_HS",
+    "DESCRIPT_1": "Wall unit with one door Aventos HS system for hood"
+  },
+  {
+    "NAME": "W1DLSDRY_HK",
+    "DESCRIPT_1": "Wall unit with one door Aventos HK system with dish drying rack"
+  },
+  {
+    "NAME": "W1DLSDRY_HL",
+    "DESCRIPT_1": "Wall unit with one door Aventos HL system with dish drying rack"
+  },
+  {
+    "NAME": "W1DLSDRY_HS",
+    "DESCRIPT_1": "Wall unit with one door Aventos HS system with dish drying rack"
+  },
+  {
+    "NAME": "W1DLSHO_HK",
+    "DESCRIPT_1": "Wall unit with one door Aventos HK system for hood"
+  },
+  {
+    "NAME": "W1DLSHO_HK_v2",
+    "DESCRIPT_1": "Wall unit with one door Aventos HK system for hood"
+  },
+  {
+    "NAME": "W1DMW",
+    "DESCRIPT_1": "Wall unit with one door for microvawe"
+  },
+  {
+    "NAME": "W2D",
+    "DESCRIPT_1": "Wall unit with two doors and shelves"
+  },
+  {
+    "NAME": "W2DDRY",
+    "DESCRIPT_1": "Wall unit with two doors with dish drying rack"
+  },
+  {
+    "NAME": "W2DHO",
+    "DESCRIPT_1": "Wall unit with two door for cooker hood"
+  },
+  {
+    "NAME": "W2DLS_HF",
+    "DESCRIPT_1": "Wall unit with two doors Aventos HF system"
+  },
+  {
+    "NAME": "W2DLSDRY_HF",
+    "DESCRIPT_1": "Wall unit with two doors Aventos HF system with dish drying rack"
+  },
+  {
+    "NAME": "W2OPS",
+    "DESCRIPT_1": "Wall unit with two open shelves"
+  },
+  {
+    "NAME": "WF",
+    "DESCRIPT_1": "Wal unit filler"
+  },
+  {
+    "NAME": "WHF",
+    "DESCRIPT_1": "Wall unit hrizontal filler"
+  },
+  {
+    "NAME": "WHF_NF",
+    "DESCRIPT_1": "Wall unit hrizontal filler"
+  },
+  {
+    "NAME": "WS_STR_P1V1",
+    "DESCRIPT_1": "Work Surface, Straight"
+  },
+  {
+    "NAME": "WSP",
+    "DESCRIPT_1": "Wall unit side panel"
+  }
+]
